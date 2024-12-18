@@ -381,22 +381,34 @@ h2, .h2 {
 	margin-left: 0;
 }
 .box-area h3{
-	font-size: 18px;
-	font-weight: 600;
+	
+font-size: 18px;
+	
+font-weight: 600;
 }
 #contactUs .heading {
-	margin-bottom: 5px;
-	margin-top: 0;
+	
+margin-bottom: 5px;
+	
+margin-top: 0;
 }
 .copyrights{
-	font-size: 12px;
-	color: #F44336;
-	position: absolute;
-	bottom: 63px;
-	text-align: center;
-	right: 0;
-	left: 0;
-	opacity: .6;
+	
+font-size: 12px;
+	
+color: #F44336;
+	
+position: absolute;
+	
+bottom: 63px;
+	
+text-align: center;
+	
+right: 0;
+	
+left: 0;
+	
+opacity: .6;
 }
 .styled div span {
 	display: block;
@@ -422,7 +434,7 @@ h2, .h2 {
 	overflow: hidden;
 	position: fixed;
 	text-shadow: 1px 1px rgba(0,0,0,0.3);
-	width: 50%;
+	width: 100%;
 	/* position: relative; */
 } 
 .web-content{
@@ -507,6 +519,19 @@ h2, .h2 {
 	color: #fff;
 	font-size: 30px;
 	font-weight: normal;
+}
+/*button map */
+.btn span.icon {
+	
+    background: url(imgs/icon.png) no-repeat;
+    float: left;
+    width: 10px;
+    height: 40px;
+	margin: 0;
+	position: absolute;
+}
+#home .banner-container .container .btn{
+	margin: 0;
 }
 /* Header 
 ----------------------------------------------*/
